@@ -1,0 +1,67 @@
+{
+    "RECEITAFAV": [
+        {
+            "id": "1",
+            "fotoReceita": "https://c.ndtvimg.com/2023-03/0m65kep_samosa_625x300_10_March_23.jpg",
+            "nomeReceita": "Samosa"
+        },
+
+        {
+            "id": "2",
+            "fotoReceita": "https://www.kikkoman.pt/fileadmin/_processed_/d/1/csm_1498-recipe-page-Nasi_Goreng_Desktop-Header_c44e907269.webp",
+            "nomeReceita": "Nasi Goreng"
+        },
+
+        {
+            "id": "3" ,
+            "fotoReceita": "https://www.thespruceeats.com/thmb/TV91zQEIkPA2yCHv8b4c13t_NOo=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/nanaimo-bar-gt-18-56a8be0e3df78cf772a03c79.jpg" , 
+            "nomeReceita": "Barras de Nanaimo"
+        },
+
+        
+        {
+            "id": "4" ,
+            "fotoReceita": "https://receitatodahora.com.br/wp-content/uploads/2021/09/yakisoba-scaled.jpg" , 
+            "nomeReceita": "Yakisoba"
+        },
+
+        
+        {
+            "id": "5" ,
+            "fotoReceita": "https://www.guiadasemana.com.br/contentFiles/image/opt_w1280h960/2019/08/FEA/64193_shutterstock-1021082725.jpg" , 
+            "nomeReceita": "Pastel de Nata"
+        },
+
+        
+        {
+            "id": "6" ,
+            "fotoReceita": "https://amoftaste.com/media/2025/08/pelmeni.jpg" , 
+            "nomeReceita": "Pelmeni"
+        },
+
+        
+        {
+            "id": "7" ,
+            "fotoReceita": "https://www.ajinomotofoodservice.com.br/wp/content/uploads/receitas/tacaca-com-tucupi-1920x1080-23-01-2025-2oz41.webp" , 
+            "nomeReceita": "Tacacá com Tucupi"
+        },
+
+         {
+            "id": "8" ,
+            "fotoReceita": "https://receitas.wap.ind.br/wp-content/uploads/2025/06/tacos.jpg" , 
+            "nomeReceita": "Tacos"
+        },
+
+         {
+            "id": "9" ,
+            "fotoReceita": "https://receitatodahora.com.br/wp-content/uploads/2024/11/fricasse-frango-1311-1200x900.jpg" , 
+            "nomeReceita": "Fricassê"
+        },
+
+         {
+            "id": "10" ,
+            "fotoReceita": "https://i.panelinha.com.br/i1/bk-3926-blog-pamonha-1.webp" , 
+            "nomeReceita": "Pamonha"
+        }
+    ]
+}
